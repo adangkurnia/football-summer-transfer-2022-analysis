@@ -15,7 +15,7 @@ Players picture by @brfootball and [realmadrid.com](https://www.realmadrid.com/e
 4.	Data Cleaning
 5.	Exporatory Data Analysis
 6.	Data Visualization
-7.	Conclusion
+7.	Insights
 
 #	Aim
 To identify the performance of this transfer window from business and sport persepective 
@@ -62,7 +62,7 @@ After exploring the data, I then visualized it on Google Data Studio. Checkout t
 ![Football_Summer_Transfer_2022_page-0002](https://user-images.githubusercontent.com/65482851/188686712-0ebb2616-8d86-4632-b67f-db36e210e720.jpg)
 ![Football_Summer_Transfer_2022_page-0003](https://user-images.githubusercontent.com/65482851/188686728-fcab9511-7f73-41b3-ac51-9ea06b8bb94d.jpg)
 
-#	Conclusion
+#	Inshights
 -	The top 5 leagues in Europe still become the most buyers for this transfer window
 -	The top 5 clubs that become the top buyers are coming from Premier League (England) which are Chelsea, Manchester United, West Ham United, Tottenham Hotspurs, and Notthingham Forrest. 
 -	There are 7 in total of top 10 buyers are coming from Premier League (England)
